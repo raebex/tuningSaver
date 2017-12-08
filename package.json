@@ -1,0 +1,23 @@
+{
+  "name": "tuningsaver",
+  "version": "1.0.0",
+  "description": "Little app to save tunings",
+  "main": "n",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raebex/tuningSaver.git"
+  },
+  "author": "Rebecca Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raebex/tuningSaver/issues"
+  },
+  "homepage": "https://github.com/raebex/tuningSaver#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
